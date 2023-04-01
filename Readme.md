@@ -1,4 +1,4 @@
-<font size="+2">To do list with HTML, CSS and Javascript</font>
+<h1>To do list with HTML, CSS and Javascript</h1>
 This is a simple project for a to-do list that allows the user to add tasks and delete them with the information being saved in the local storage. The project is made with HTML, CSS, and pure JavaScript.
 <font size="+1>">Functionalities</font>
 The user can add a new task to the to-do list.
